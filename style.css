@@ -221,3 +221,10 @@ footer {
 .italic {
   font-style: italic;
 }
+
+code {
+
+  font-style: inherit;
+  font-size: larger;
+
+}
