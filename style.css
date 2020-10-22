@@ -85,7 +85,7 @@ i {
 
 .avatar {
   border-radius: 50%;
-  size: 0vmax;
+  size: 100%;
 }
 
 .blog-navigation {
